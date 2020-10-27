@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adf2ab8d0100ce8fce796d7f07c08641",
+    "revision": "fb17b4a4dde234b7656ee3a481a4b038",
     "url": "/resume/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/css/2.23802283.chunk.css"
   },
   {
-    "revision": "4890a80ed2a69147b03d",
+    "revision": "f1aac391a7558bb9d3cd",
     "url": "/resume/static/css/main.41866f2b.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/js/2.f04a699c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4890a80ed2a69147b03d",
-    "url": "/resume/static/js/main.5ca74e88.chunk.js"
+    "revision": "f1aac391a7558bb9d3cd",
+    "url": "/resume/static/js/main.7de8e45a.chunk.js"
   },
   {
     "revision": "7426b324e7768b99f472",
     "url": "/resume/static/js/runtime-main.6086f8f2.js"
   },
   {
-    "revision": "b047e0ba04d5d656fabbdaac28ec25da",
-    "url": "/resume/static/media/black-girl.b047e0ba.jpg"
+    "revision": "e5748db433bc9938dbe9129fd393e69e",
+    "url": "/resume/static/media/black-girl.e5748db4.jpg"
   },
   {
-    "revision": "58b745d92ec68a7d86246975488a306f",
-    "url": "/resume/static/media/colorful-elephant.58b745d9.jpg"
+    "revision": "f2751dc59065b35996c70e0ee0ddeb95",
+    "url": "/resume/static/media/colorful-elephant.f2751dc5.jpg"
   },
   {
     "revision": "957231b67619ce947f10d59fea95f063",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/media/dissertation.ee08b836.pdf"
   },
   {
-    "revision": "5cf369863e9ca4c2ca93d98247b2a941",
-    "url": "/resume/static/media/girl-with-pot.5cf36986.jpg"
+    "revision": "7442f2b784550aacfd58125e28af6d4d",
+    "url": "/resume/static/media/girl-with-pot.7442f2b7.jpg"
   },
   {
     "revision": "943b7aff9494219a0c3e9c578d85c8ee",
