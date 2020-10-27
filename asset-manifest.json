@@ -1,36 +1,34 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.41866f2b.chunk.css",
-    "main.js": "/resume/static/js/main.aa3781c1.chunk.js",
-    "main.js.map": "/resume/static/js/main.aa3781c1.chunk.js.map",
+    "main.js": "/resume/static/js/main.77a9b96a.chunk.js",
+    "main.js.map": "/resume/static/js/main.77a9b96a.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.6086f8f2.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.6086f8f2.js.map",
     "static/css/2.23802283.chunk.css": "/resume/static/css/2.23802283.chunk.css",
-    "static/js/2.a7b26064.chunk.js": "/resume/static/js/2.a7b26064.chunk.js",
-    "static/js/2.a7b26064.chunk.js.map": "/resume/static/js/2.a7b26064.chunk.js.map",
+    "static/js/2.8310ac08.chunk.js": "/resume/static/js/2.8310ac08.chunk.js",
+    "static/js/2.8310ac08.chunk.js.map": "/resume/static/js/2.8310ac08.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.12daa013773845191b16d3b5eb3c77ba.js": "/resume/precache-manifest.12daa013773845191b16d3b5eb3c77ba.js",
+    "precache-manifest.e328339833cd24e3a9ff295f7a1c47cf.js": "/resume/precache-manifest.e328339833cd24e3a9ff295f7a1c47cf.js",
     "service-worker.js": "/resume/service-worker.js",
     "static/css/2.23802283.chunk.css.map": "/resume/static/css/2.23802283.chunk.css.map",
     "static/css/main.41866f2b.chunk.css.map": "/resume/static/css/main.41866f2b.chunk.css.map",
-    "static/js/2.a7b26064.chunk.js.LICENSE.txt": "/resume/static/js/2.a7b26064.chunk.js.LICENSE.txt",
-    "static/media/black-girl-tumb.jpg": "/resume/static/media/black-girl-tumb.c8048bdf.jpg",
+    "static/js/2.8310ac08.chunk.js.LICENSE.txt": "/resume/static/js/2.8310ac08.chunk.js.LICENSE.txt",
     "static/media/black-girl.jpg": "/resume/static/media/black-girl.e5748db4.jpg",
-    "static/media/colorful-elephant-tumb.jpg": "/resume/static/media/colorful-elephant-tumb.e7cafac0.jpg",
     "static/media/colorful-elephant.jpg": "/resume/static/media/colorful-elephant.f2751dc5.jpg",
     "static/media/dissertation.pdf": "/resume/static/media/dissertation.ee08b836.pdf",
-    "static/media/girl-with-pot-tumb.jpg": "/resume/static/media/girl-with-pot-tumb.8232b36d.jpg",
+    "static/media/girl-with-pot-tumb.jpg": "/resume/static/media/girl-with-pot-tumb.b521b442.jpg",
     "static/media/girl-with-pot.jpg": "/resume/static/media/girl-with-pot.7442f2b7.jpg",
     "static/media/profile-pic.png": "/resume/static/media/profile-pic.867b89ed.png",
+    "static/media/ransis-arcade-tumb.png": "/resume/static/media/ransis-arcade-tumb.a57a8d62.png",
     "static/media/ransis-arcade.png": "/resume/static/media/ransis-arcade.5372750e.png",
-    "static/media/three-elephants-tumb.jpg": "/resume/static/media/three-elephants-tumb.37fb3c10.jpg",
     "static/media/three-elephants.jpg": "/resume/static/media/three-elephants.ddc1f3e5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6086f8f2.js",
     "static/css/2.23802283.chunk.css",
-    "static/js/2.a7b26064.chunk.js",
+    "static/js/2.8310ac08.chunk.js",
     "static/css/main.41866f2b.chunk.css",
-    "static/js/main.aa3781c1.chunk.js"
+    "static/js/main.77a9b96a.chunk.js"
   ]
 }
