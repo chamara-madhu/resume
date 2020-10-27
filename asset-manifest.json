@@ -1,29 +1,25 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.41866f2b.chunk.css",
-    "main.js": "/resume/static/js/main.7de8e45a.chunk.js",
-    "main.js.map": "/resume/static/js/main.7de8e45a.chunk.js.map",
+    "main.js": "/resume/static/js/main.ce0bab8a.chunk.js",
+    "main.js.map": "/resume/static/js/main.ce0bab8a.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.6086f8f2.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.6086f8f2.js.map",
     "static/css/2.23802283.chunk.css": "/resume/static/css/2.23802283.chunk.css",
     "static/js/2.f04a699c.chunk.js": "/resume/static/js/2.f04a699c.chunk.js",
     "static/js/2.f04a699c.chunk.js.map": "/resume/static/js/2.f04a699c.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.f7f93adc56430c64dbe8fc0264e9a7d4.js": "/resume/precache-manifest.f7f93adc56430c64dbe8fc0264e9a7d4.js",
+    "precache-manifest.f2bb64dcec45517ca75b0ed1c15fcca0.js": "/resume/precache-manifest.f2bb64dcec45517ca75b0ed1c15fcca0.js",
     "service-worker.js": "/resume/service-worker.js",
     "static/css/2.23802283.chunk.css.map": "/resume/static/css/2.23802283.chunk.css.map",
     "static/css/main.41866f2b.chunk.css.map": "/resume/static/css/main.41866f2b.chunk.css.map",
     "static/js/2.f04a699c.chunk.js.LICENSE.txt": "/resume/static/js/2.f04a699c.chunk.js.LICENSE.txt",
     "static/media/black-girl.jpg": "/resume/static/media/black-girl.e5748db4.jpg",
     "static/media/colorful-elephant.jpg": "/resume/static/media/colorful-elephant.f2751dc5.jpg",
-    "static/media/dashboard.png": "/resume/static/media/dashboard.957231b6.png",
     "static/media/dissertation.pdf": "/resume/static/media/dissertation.ee08b836.pdf",
     "static/media/girl-with-pot.jpg": "/resume/static/media/girl-with-pot.7442f2b7.jpg",
-    "static/media/kahabathgedara.png": "/resume/static/media/kahabathgedara.943b7aff.png",
-    "static/media/poruwa.png": "/resume/static/media/poruwa.1b38a26a.png",
     "static/media/profile-pic.png": "/resume/static/media/profile-pic.867b89ed.png",
     "static/media/ransis-arcade.png": "/resume/static/media/ransis-arcade.5372750e.png",
-    "static/media/spritzer.png": "/resume/static/media/spritzer.ea36b827.png",
     "static/media/three-elephants.jpg": "/resume/static/media/three-elephants.ddc1f3e5.jpg"
   },
   "entrypoints": [
@@ -31,6 +27,6 @@
     "static/css/2.23802283.chunk.css",
     "static/js/2.f04a699c.chunk.js",
     "static/css/main.41866f2b.chunk.css",
-    "static/js/main.7de8e45a.chunk.js"
+    "static/js/main.ce0bab8a.chunk.js"
   ]
 }
