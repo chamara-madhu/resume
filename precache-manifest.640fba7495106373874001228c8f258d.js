@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "370341637d30944c78660830a5fee4d9",
+    "revision": "adf2ab8d0100ce8fce796d7f07c08641",
     "url": "/resume/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/css/2.23802283.chunk.css"
   },
   {
-    "revision": "8c8b1f0b399cffd2770b",
-    "url": "/resume/static/css/main.c1c8a14a.chunk.css"
+    "revision": "4890a80ed2a69147b03d",
+    "url": "/resume/static/css/main.41866f2b.chunk.css"
   },
   {
     "revision": "5b3b88add93c5c129034",
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/js/2.f04a699c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c8b1f0b399cffd2770b",
-    "url": "/resume/static/js/main.bbaae4cc.chunk.js"
+    "revision": "4890a80ed2a69147b03d",
+    "url": "/resume/static/js/main.5ca74e88.chunk.js"
   },
   {
     "revision": "7426b324e7768b99f472",
     "url": "/resume/static/js/runtime-main.6086f8f2.js"
   },
   {
-    "revision": "ed19ea61a7dd8964ad18d6ca60c107dd",
-    "url": "/resume/static/media/black-girl.ed19ea61.jpg"
+    "revision": "b047e0ba04d5d656fabbdaac28ec25da",
+    "url": "/resume/static/media/black-girl.b047e0ba.jpg"
   },
   {
-    "revision": "01084934d6bedfc219faf0cfe62afa48",
-    "url": "/resume/static/media/colorful-elephant.01084934.jpg"
+    "revision": "58b745d92ec68a7d86246975488a306f",
+    "url": "/resume/static/media/colorful-elephant.58b745d9.jpg"
   },
   {
     "revision": "957231b67619ce947f10d59fea95f063",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/media/dissertation.ee08b836.pdf"
   },
   {
-    "revision": "fdbec9db0658c05f8d25bb4dea797340",
-    "url": "/resume/static/media/girl-with-pot.fdbec9db.jpg"
+    "revision": "5cf369863e9ca4c2ca93d98247b2a941",
+    "url": "/resume/static/media/girl-with-pot.5cf36986.jpg"
   },
   {
     "revision": "943b7aff9494219a0c3e9c578d85c8ee",
